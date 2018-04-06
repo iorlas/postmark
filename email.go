@@ -49,7 +49,7 @@ type Attachment struct {
 	Content string
 	// ContentType: attachment MIME type
 	ContentType string
-	// ContentType: attachment reference ID
+	// ContentID: attachment reference ID
 	ContentID string
 }
 
